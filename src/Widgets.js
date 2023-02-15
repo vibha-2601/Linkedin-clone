@@ -21,10 +21,10 @@ const Widgets = () => {
         <h2>LinkedIn News</h2>
         <InfoIcon />
       </div>
-      {newsArticle("Tesla hits new hish", "Cars and auto - 300 readers")}
-      {newsArticle("Is Redux too good!", "Code - 123 readers")}
-      {newsArticle("Tesla hits new hish", "Cars and auto - 300 readers")}
-      {newsArticle("Tesla hits new hish", "Cars and auto - 300 readers")}
+      {newsArticle("Tesla hits new highs", "Cars and auto - 300 readers")}
+      {newsArticle("Is Redux too good?", "Code - 123 readers")}
+      {newsArticle("Coronavirus: UK updates", "Top News - 886 readers")}
+      {newsArticle("Bitcoin Breaks $22k", "Crypto - 8000 readers")}
 
     </div>
   )
